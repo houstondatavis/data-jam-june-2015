@@ -29,8 +29,12 @@ Many thanks to all who came out to the [data jam](http://www.meetup.com/Houston-
 [geo plots] (https://github.com/timabram/houston-june-datajam) in [R] with [ggplot2](http://ggplot2.org/) and [ggmap](https://sites.google.com/site/davidkahle/ggmap) (http://www.r-project.org/)
 from Tim, Aditi, Orion, Rocio, and team
 
+![geo plots in R](geo-maps-in-r.png)
+
 an [interactive diagnoses group explorer](http://bl.ocks.org/micahstubbs/2697195b31c93bb3147a) in [d3js](d3js.org)
 from Leann, Javier, & Micah
+
+![interactive diagnoses group explorer in d3js](diagnoses-explorer.gif)
 
 mapping onto bodies with Python 
 Muxin, Neeraj, and team
